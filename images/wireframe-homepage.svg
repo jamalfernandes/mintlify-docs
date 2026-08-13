@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1032" width="760" height="1032" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" role="img" aria-label="Low-fidelity wireframe of the JFC homepage, nine stacked blocks">
+  <style>
+    .fr { fill: #8a8a8a; fill-opacity: .04; stroke: #8a8a8a; stroke-opacity: .35; }
+    .blk { fill: #8a8a8a; fill-opacity: .05; stroke: #8a8a8a; stroke-opacity: .45; stroke-dasharray: 4 3; }
+    .lbl { font-size: 9.5px; font-weight: 700; letter-spacing: 1.2px; fill: #FF3333; }
+    .bar { fill: #8a8a8a; fill-opacity: .42; }
+    .ttl { fill: #8a8a8a; fill-opacity: .68; }
+    .faint { fill: #8a8a8a; fill-opacity: .2; }
+    .box { fill: #8a8a8a; fill-opacity: .14; stroke: #8a8a8a; stroke-opacity: .35; }
+    .btn { fill: #C90404; }
+    .btnt { font-size: 10.5px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
+    .ghost { fill: none; stroke: #8a8a8a; stroke-opacity: .5; }
+    .ghostt { font-size: 10.5px; fill: #8a8a8a; text-anchor: middle; }
+    .ph { font-size: 10px; fill: #8a8a8a; text-anchor: middle; }
+    .dot { fill: #8a8a8a; fill-opacity: .45; }
+  </style>
+
+  <rect class="fr" x="4" y="4" width="752" height="1022" rx="12"/>
+  <circle class="dot" cx="26" cy="24" r="4.5"/>
+  <circle class="dot" cx="42" cy="24" r="4.5"/>
+  <circle class="dot" cx="58" cy="24" r="4.5"/>
+
+  <rect class="blk" x="16" y="44" width="728" height="132" rx="8"/>
+  <text class="lbl" x="28" y="64">HERO</text>
+  <rect class="ttl" x="28" y="74" width="430" height="16" rx="3"/>
+  <rect class="bar" x="28" y="98" width="520" height="8" rx="3"/>
+  <rect class="bar" x="28" y="112" width="380" height="8" rx="3"/>
+  <rect class="btn" x="28" y="128" width="152" height="26" rx="5"/>
+  <text class="btnt" x="104" y="145">Book a 20-minute call</text>
+  <rect class="ghost" x="190" y="128" width="146" height="26" rx="5"/>
+  <text class="ghostt" x="263" y="145">Download the guide</text>
+
+  <rect class="blk" x="16" y="188" width="728" height="70" rx="8"/>
+  <text class="lbl" x="28" y="208">PROOF BAR &#183; FOUR FIGURES, NO IMAGES</text>
+  <rect class="bar" x="28" y="224" width="165" height="10" rx="3"/>
+  <rect class="bar" x="205" y="224" width="165" height="10" rx="3"/>
+  <rect class="bar" x="382" y="224" width="165" height="10" rx="3"/>
+  <rect class="bar" x="559" y="224" width="165" height="10" rx="3"/>
+
+  <rect class="blk" x="16" y="270" width="728" height="96" rx="8"/>
+  <text class="lbl" x="28" y="290">THE PROBLEM &#183; THREE COMPANIES</text>
+  <rect class="ttl" x="28" y="300" width="400" height="16" rx="3"/>
+  <rect class="bar" x="28" y="324" width="560" height="8" rx="3"/>
+  <rect class="bar" x="28" y="338" width="470" height="8" rx="3"/>
+
+  <rect class="blk" x="16" y="378" width="728" height="148" rx="8"/>
+  <text class="lbl" x="28" y="398">THREE SERVICES</text>
+  <rect class="box" x="28" y="408" width="224" height="56" rx="6"/>
+  <text class="ph" x="140" y="440">icon</text>
+  <rect class="bar" x="28" y="474" width="110" height="8" rx="3"/>
+  <rect class="bar" x="28" y="488" width="190" height="8" rx="3"/>
+  <rect class="box" x="264" y="408" width="224" height="56" rx="6"/>
+  <text class="ph" x="376" y="440">icon</text>
+  <rect class="bar" x="264" y="474" width="110" height="8" rx="3"/>
+  <rect class="bar" x="264" y="488" width="190" height="8" rx="3"/>
+  <rect class="box" x="500" y="408" width="224" height="56" rx="6"/>
+  <text class="ph" x="612" y="440">icon</text>
+  <rect class="bar" x="500" y="474" width="110" height="8" rx="3"/>
+  <rect class="bar" x="500" y="488" width="190" height="8" rx="3"/>
+
+  <rect class="blk" x="16" y="538" width="728" height="72" rx="8"/>
+  <text class="lbl" x="28" y="558">HOW IT WORKS &#183; FOUR STEPS</text>
+  <rect class="bar" x="28" y="572" width="165" height="12" rx="3"/>
+  <rect class="bar" x="205" y="572" width="165" height="12" rx="3"/>
+  <rect class="bar" x="382" y="572" width="165" height="12" rx="3"/>
+  <rect class="bar" x="559" y="572" width="165" height="12" rx="3"/>
+
+  <rect class="blk" x="16" y="622" width="728" height="104" rx="8"/>
+  <text class="lbl" x="28" y="642">REGULATION BLOCK &#183; LEADS TO THE LEAD MAGNET</text>
+  <rect class="ttl" x="28" y="652" width="420" height="16" rx="3"/>
+  <rect class="bar" x="28" y="676" width="560" height="8" rx="3"/>
+  <rect class="btn" x="28" y="692" width="140" height="26" rx="5"/>
+  <text class="btnt" x="98" y="709">Download the guide</text>
+
+  <rect class="blk" x="16" y="738" width="728" height="72" rx="8"/>
+  <text class="lbl" x="28" y="758">TESTIMONIAL &#183; HELD UNTIL CONSENT</text>
+  <rect class="faint" x="28" y="770" width="600" height="8" rx="3"/>
+  <rect class="faint" x="28" y="784" width="300" height="8" rx="3"/>
+
+  <rect class="blk" x="16" y="822" width="728" height="88" rx="8"/>
+  <text class="lbl" x="28" y="842">FAQ &#183; FIVE QUESTIONS, ACCORDION</text>
+  <rect class="bar" x="28" y="852" width="680" height="8" rx="3"/>
+  <rect class="bar" x="28" y="868" width="680" height="8" rx="3"/>
+  <rect class="bar" x="28" y="884" width="680" height="8" rx="3"/>
+
+  <rect class="blk" x="16" y="922" width="728" height="88" rx="8"/>
+  <text class="lbl" x="28" y="942">CLOSING CALL TO ACTION</text>
+  <rect class="ttl" x="28" y="952" width="450" height="16" rx="3"/>
+  <rect class="btn" x="28" y="976" width="152" height="26" rx="5"/>
+  <text class="btnt" x="104" y="993">Book a 20-minute call</text>
+</svg>
