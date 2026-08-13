@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" role="img" aria-label="Low-fidelity wireframe of the lead magnet landing page, two columns">
+  <style>
+    .fr { fill: #8a8a8a; fill-opacity: .04; stroke: #8a8a8a; stroke-opacity: .35; }
+    .blk { fill: #8a8a8a; fill-opacity: .05; stroke: #8a8a8a; stroke-opacity: .45; stroke-dasharray: 4 3; }
+    .lbl { font-size: 9.5px; font-weight: 700; letter-spacing: 1.2px; fill: #FF3333; }
+    .bar { fill: #8a8a8a; fill-opacity: .42; }
+    .ttl { fill: #8a8a8a; fill-opacity: .68; }
+    .field { fill: none; stroke: #8a8a8a; stroke-opacity: .5; }
+    .box { fill: #8a8a8a; fill-opacity: .14; stroke: #8a8a8a; stroke-opacity: .35; }
+    .btn { fill: #C90404; }
+    .btnt { font-size: 10.5px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
+    .ph { font-size: 10px; fill: #8a8a8a; text-anchor: middle; }
+    .fine { fill: #8a8a8a; fill-opacity: .3; }
+    .dot { fill: #8a8a8a; fill-opacity: .45; }
+  </style>
+
+  <rect class="fr" x="4" y="4" width="752" height="352" rx="12"/>
+  <circle class="dot" cx="26" cy="24" r="4.5"/>
+  <circle class="dot" cx="42" cy="24" r="4.5"/>
+  <circle class="dot" cx="58" cy="24" r="4.5"/>
+
+  <rect class="blk" x="16" y="44" width="356" height="92" rx="8"/>
+  <text class="lbl" x="28" y="64">HEADLINE AND PROMISE</text>
+  <rect class="ttl" x="28" y="74" width="250" height="16" rx="3"/>
+  <rect class="bar" x="28" y="98" width="300" height="8" rx="3"/>
+  <rect class="bar" x="28" y="112" width="210" height="8" rx="3"/>
+
+  <rect class="blk" x="16" y="148" width="356" height="118" rx="8"/>
+  <text class="lbl" x="28" y="168">WHAT IS INSIDE &#183; FIVE BULLETS</text>
+  <rect class="bar" x="28" y="178" width="320" height="7" rx="3"/>
+  <rect class="bar" x="28" y="192" width="320" height="7" rx="3"/>
+  <rect class="bar" x="28" y="206" width="300" height="7" rx="3"/>
+  <rect class="bar" x="28" y="220" width="310" height="7" rx="3"/>
+  <rect class="bar" x="28" y="234" width="180" height="7" rx="3"/>
+
+  <rect class="blk" x="16" y="278" width="356" height="58" rx="8"/>
+  <text class="lbl" x="28" y="298">WHO WROTE IT &#183; CREDIBILITY LINE</text>
+  <rect class="bar" x="28" y="308" width="240" height="8" rx="3"/>
+
+  <rect class="blk" x="388" y="44" width="356" height="176" rx="8"/>
+  <text class="lbl" x="400" y="64">FORM &#183; THREE FIELDS ONLY</text>
+  <rect class="field" x="400" y="74" width="320" height="20" rx="4"/>
+  <rect class="field" x="400" y="100" width="320" height="20" rx="4"/>
+  <rect class="field" x="400" y="126" width="320" height="20" rx="4"/>
+  <rect class="btn" x="400" y="154" width="150" height="26" rx="5"/>
+  <text class="btnt" x="475" y="171">Send me the guide</text>
+  <rect class="fine" x="400" y="190" width="210" height="7" rx="3"/>
+
+  <rect class="blk" x="388" y="232" width="356" height="104" rx="8"/>
+  <text class="lbl" x="400" y="252">GUIDE COVER</text>
+  <rect class="box" x="400" y="262" width="320" height="62" rx="6"/>
+  <text class="ph" x="560" y="297">cover image</text>
+</svg>
