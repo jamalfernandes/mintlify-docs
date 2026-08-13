@@ -7,7 +7,7 @@
     "light": "#FF3333",
     "dark": "#0A0A0A"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/jfc-logo.png",
   "navigation": {
     "pages": [
       {
@@ -57,8 +57,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/jfc-logo.png",
+    "dark": "/logo/jfc-logo.png"
   },
   "navbar": {
     "links": [
