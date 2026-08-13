@@ -101,5 +101,8 @@
   },
   "metadata": {
     "timestamp": false
+  },
+  "icons": {
+    "library": "lucide"
   }
 }
