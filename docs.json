@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "JFC Immobilier · Brand Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#C90404",
+    "light": "#FF3333",
+    "dark": "#0A0A0A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -18,20 +18,43 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    "groups": [
+      {
+        "group": "The brand",
+        "pages": [
+          "index",
+          "positioning",
+          "audiences",
+          "messaging",
+          "voice",
+          "channels"
+        ]
+      },
+      {
+        "group": "Ready to use",
+        "icon": "clipboard-copy",
+        "pages": [
+          "posts",
+          "website",
+          "emails"
+        ]
+      },
+      {
+        "group": "Reference",
+        "icon": "library",
+        "pages": [
+          "proof",
+          "visual"
+        ]
+      },
+      {
+        "group": "Internal · Boost33",
+        "icon": "triangle-alert",
+        "pages": [
+          "open-items"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -68,5 +91,15 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "description": "The working brand and content reference for JFC Immobilier. Positioning, voice, ready-to-use copy, and the proof behind every claim.",
+  "appearance": {
+    "default": "dark"
+  },
+  "seo": {
+    "indexing": "navigable"
+  },
+  "metadata": {
+    "timestamp": false
   }
 }
